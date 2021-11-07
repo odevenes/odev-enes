@@ -1,2 +1,0 @@
-# odev-enes
-Odev Sitesi
